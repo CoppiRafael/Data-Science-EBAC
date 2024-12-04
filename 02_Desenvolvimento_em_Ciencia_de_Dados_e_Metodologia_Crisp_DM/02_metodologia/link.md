@@ -1,2 +1,2 @@
-  
-[Link GitHub](https://github.com/CoppiRafael/volta-zero/blob/main/Projeto%2001%20-%20Classifica%C3%A7%C3%A3o%20de%20cr%C3%A9dito.ipynb)
+# Nessa aula eu tinha que fazer Upload da tarefa via GitHub
+[Link GitHub](https://github.com/CoppiRafael/Credit-score/blob/main/ProjetoClassifica%C3%A7%C3%A3o_de_cr%C3%A9dito.ipynb)
