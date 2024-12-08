@@ -1,0 +1,3 @@
+- [Link Atividade 1](https://segmentacaobasicaebac.streamlit.app/)
+- [Link atividade 2](https://clustereletricalgorithm.streamlit.app/)
+- [Link atividae 2.1](https://github.com/CoppiRafael/Cluster_Eletric)
