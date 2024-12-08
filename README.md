@@ -8,7 +8,7 @@ Bem-vindo ao repositório do curso de **Formação em Data Science** da **EBAC**
 
 ---
 
-![Animação de dados](https://media.giphy.com/media/3o7aD6EZWUNZVVyP60/giphy.gif)
+![Animação de dados](https://tenor.com/pt-BR/view/cats-computer-hack-anon-anonymous-gif-14779987)
 
 
 ## 🗂 Estrutura do Repositório
