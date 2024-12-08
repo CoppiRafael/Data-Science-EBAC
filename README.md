@@ -1,126 +1,125 @@
-![image](https://github.com/user-attachments/assets/120959a6-b2d9-466d-9190-3b27d9941c18)
+![image.png](attachment:image.png)
 
 
 
-# Formação Cientista de Dados - EBAC 🎓
+# Data Scientist Training - EBAC 🎓
 
-Bem-vindo ao repositório do curso de **Formação em Data Science** da **EBAC**! Este repositório contém todas as atividades, tarefas e projetos desenvolvidos durante a jornada de aprendizado organizada em pastas e subpastas para fácil navegação.
+Welcome to the repository for the **Data Science Training** course from **EBAC**! This repository contains all the activities, assignments, and projects developed throughout the learning journey, organized into folders and subfolders for easy navigation.
 
 ---
 
 ![Animação de dados](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGFmM2Nod2hjN202Mjl4dWtseWpweHk2MmZpaXE1ZWZucm1ocW5jMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif)
 
 
-## 🗂 Estrutura do Repositório
+## 🗂 Repository Structure
 
-### **Fase 1 - Desenvolvimento em Ciência de Dados e Metodologia Crisp-DM**
-- **Temas Abordados:**
-  - Introdução ao Python
-  - Metodologia CRISP-DM
-  - Elementos básicos de programação (variáveis, tipos de dados, estruturas de controle)
-  - Manipulação de dados com Numpy
-  - Introdução ao Pandas
-  - Limpeza e preparação de dados
-- **Ferramentas e Tecnologias:**
+### **Phase 1 - Data Science Development and CRISP-DM Methodology**
+- **Topics Covered:**
+  - Introduction to Python
+  - CRISP-DM Methodology
+  - Basic programming elements (variables, data types, control structures)
+  - Data manipulation with Numpy
+  - Introduction to Pandas
+  - Data cleaning and preparation
+- **Tools and Technologies:**
   - Python, Numpy, Pandas, Git/GitHub
-- **Atividades:**
-  - [x] Implementação de scripts básicos.
-  - [x] Versionamento de código com Git.
+- **Activities:**
+  - [x] Implementation of basic scripts.
+  - [x] Code versioning with Git.
 
 ---
 
-### **Fase 2 - Python para Análise de Dados**
-- **Temas Abordados:**
-  - Estruturas de dados (listas, dicionários, tuplas)
-  - Programação Funcional e Orientada a Objetos
-  - Tratamento de erros
-  - Visualização com Matplotlib e Seaborn
-- **Atividades:**
-  - [x] Análise descritiva.
-  - [x] Criação de gráficos interativos.
+### **Phase 2 - Python for Data Analysis**
+- **Topics Covered:**
+  - Data structures (lists, dictionaries, tuples)
+  - Functional and Object-Oriented Programming
+  - Error handling
+  - Visualization with Matplotlib and Seaborn
+- **Activities:**
+  - [x] Descriptive analysis.
+  - [x] Creation of interactive charts.
 
 ---
 
-### **Fase 3 - Desenvolvimento de Modelos com Pandas e Python**
-- **Temas Abordados:**
-  - Árvores de Regressão
-  - Regressão Linear e Logística
-  - Automação de processos com Python
-  - Desenvolvimento de aplicações com Streamlit
-- **Atividades:**
-  - [x] Criação de modelos preditivos simples.
-  - [x] Desenvolvimento de aplicações interativas.
+### **Phase 3 - Model Development with Pandas and Python**
+- **Topics Covered:**
+  - Decision Trees
+  - Linear and Logistic Regression
+  - Process automation with Python
+  - Application development with Streamlit
+- **Activities:**
+  - [x] Creation of simple predictive models.
+  - [x] Development of interactive applications.
 
 ---
 
-### **Fase 4 - Gestão Avançada de Dados e Desenvolvimento de Aplicações**
-- **Temas Abordados:**
-  - Técnicas avançadas de agrupamento (K-Means e Hierárquicos)
-  - Implementação de validação cruzada
-  - Uso avançado de Streamlit e Markdown
-- **Atividades:**
-  - [x] Agrupamento de dados para segmentação.
-  - [x] Análise de classificação multinomial.
+### **Phase 4 - Advanced Data Management and Application Development**
+- **Topics Covered:**
+  - Advanced clustering techniques (K-Means and Hierarchical)
+  - Cross-validation implementation
+  - Advanced Streamlit and Markdown usage
+- **Activities:**
+  - [x] Data clustering for segmentation.
+  - [x] Multinomial classification analysis.
 
 ---
 
-### **Fase 5 - SQL para Análise de Dados**
-- **Temas Abordados:**
-  - Criação e manipulação de tabelas em SQL
-  - Filtragem, seleção condicional e ordenação
-  - Agregações e junções complexas
-- **Atividades:**
-  - [x] Consultas em SQL.
-  - [x] Integração com Python para análise automatizada.
+### **Phase 5 - SQL for Data Analysis**
+- **Topics Covered:**
+  - Table creation and manipulation in SQL
+  - Filtering, conditional selection, and sorting
+  - Aggregations and complex joins
+- **Activities:**
+  - [x] SQL queries.
+  - [x] Integration with Python for automated analysis.
 
 ---
 
-### **Fase 6 - Modelagem Estatística e Regressão com Python**
-- **Temas Abordados:**
-  - Probabilidade e inferência estatística
-  - Análise de regressão avançada (multicolinearidade, heterocedasticidade)
-  - Modelagem preditiva e criação de pipelines de dados
-- **Atividades:**
-  - [x] Testes de hipóteses.
-  - [x] Implementação de pipelines.
+### **Phase 6 - Statistical Modeling and Regression with Python**
+- **Topics Covered:**
+  - Probability and statistical inference
+  - Advanced regression analysis (multicollinearity, heteroscedasticity)
+  - Predictive modeling and data pipeline creation
+- **Activities:**
+  - [x] Hypothesis testing.
+  - [x] Pipeline implementation.
 
 ---
 
-### **Fase 7 - Modelagem de Dados Categorizados**
-- **Temas Abordados:**
-  - Construção de modelos de risco de crédito
-  - Técnicas de pré-processamento
-  - Uso do pacote PyCaret para machine learning
-- **Atividades:**
-  - [x] Cálculo de WOE e IV.
-  - [x] Treinamento e avaliação de modelos de crédito.
+### **Phase 7 - Categorical Data Modeling**
+- **Topics Covered:**
+  - Credit risk modeling
+  - Preprocessing techniques
+  - Use of the PyCaret package for machine learning
+- **Activities:**
+  - [x] WOE and IV calculations.
+  - [x] Training and evaluation of credit models.
 
 ---
 
-## 📚 Recursos de Estudo
+## 📚 Study Resources
 
-O material do curso está organizado em arquivos PDF, notebooks e scripts de Python que cobrem:
+The course material is organized into PDFs, notebooks, and Python scripts, covering:
 
-- **Metodologias e Boas Práticas:** Metodologia CRISP-DM, Storytelling e Visualização de Dados.
-- **Python:** Scripts funcionais, Orientação a Objetos e Tratamento de Erros.
-- **Estatística:** Probabilidade, Inferência e Análise de Componentes Principais (PCA).
-- **SQL:** Consultas, Filtragem e Junções Avançadas.
-
----
-
-## 🛠 Tecnologias Utilizadas
-- **Linguagens:** Python, SQL
-- **Bibliotecas Python:** Pandas, Numpy, Matplotlib, Seaborn, PyCaret, Scikit-learn
-- **Ferramentas:** Streamlit, Jupyter Notebook, Git/GitHub
-- **Outras Tecnologias:** PostgreSQL, LaTeX, Linux CLI
+- **Methodologies and Best Practices:** CRISP-DM methodology, Storytelling, and Data Visualization.
+- **Python:** Functional scripts, Object-Oriented Programming, and Error Handling.
+- **Statistics:** Probability, Inference, and Principal Component Analysis (PCA).
+- **SQL:** Queries, Filtering, and Advanced Joins.
 
 ---
 
-## 🏆 Objetivos do Curso
-1. **Dominar Python e SQL para análise de dados.**
-2. **Construir e avaliar modelos preditivos.**
-3. **Desenvolver aplicações interativas para visualização e análise.**
-4. **Aplicar técnicas avançadas de modelagem estatística.**
-5. **Gerenciar projetos e versionamento com Git/GitHub.**
+## 🛠 Technologies Used
+- **Languages:** Python, SQL
+- **Python Libraries:** Pandas, Numpy, Matplotlib, Seaborn, PyCaret, Scikit-learn
+- **Tools:** Streamlit, Jupyter Notebook, Git/GitHub
+- **Other Technologies:** PostgreSQL, LaTeX, Linux CLI
 
 ---
+
+## 🏆 Course Objectives
+1. **Master Python and SQL for data analysis.**
+2. **Build and evaluate predictive models.**
+3. **Develop interactive applications for visualization and analysis.**
+4. **Apply advanced statistical modeling techniques.**
+5. **Manage projects and version control with Git/GitHub.**
+
