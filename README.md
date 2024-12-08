@@ -8,7 +8,7 @@ Bem-vindo ao repositório do curso de **Formação em Data Science** da **EBAC**
 
 ---
 
-![Animação de dados](https://media.tenor.com/yQ6QlIyJf-EAAAPo/cats-computer.mp4)
+![Animação de dados](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGFmM2Nod2hjN202Mjl4dWtseWpweHk2MmZpaXE1ZWZucm1ocW5jMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif)
 
 
 ## 🗂 Estrutura do Repositório
