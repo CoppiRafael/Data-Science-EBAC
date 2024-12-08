@@ -1,13 +1,15 @@
 ![image](https://github.com/user-attachments/assets/120959a6-b2d9-466d-9190-3b27d9941c18)
 
 
-# Data-Science-EBAC
 
 # Formação Cientista de Dados - EBAC 🎓
 
 Bem-vindo ao repositório do curso de **Formação em Data Science** da **EBAC**! Este repositório contém todas as atividades, tarefas e projetos desenvolvidos durante a jornada de aprendizado organizada em pastas e subpastas para fácil navegação.
 
 ---
+
+![Animação de dados](https://media.giphy.com/media/3o7aD6EZWUNZVVyP60/giphy.gif)
+
 
 ## 🗂 Estrutura do Repositório
 
